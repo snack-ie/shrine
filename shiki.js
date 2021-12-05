@@ -1,10 +1,12 @@
-
-function shiki() {
-	document.getElementById("title").innerHTML = "Shiki Shrine"
-	document.getElementById("p").innerHTML = "Ok, isso aqui é um site para adorarmos a Shiki, começe a adorar ela imediatamente"
-	document.getElementById("linl").src = "https://www.youtube.com/embed/cVpU3ckQyJg"
-	document.getElementById("foto").src = "shiki.png"
-	document.getElementById("foto").alt = "shiki"
-	document.getElementById("title").style.color = "LightBlue"
-	document.getElementById("p").style.color = "LightBlue"
+function random() {
+	shiki(data[Math.floor(Math.random() * data.length)])
+}
+function shiki(json) {
+	document.getElementById("title").innerHTML = json.title
+	document.getElementById("p").innerHTML = json.description
+	document.getElementById("linl").src = json.video
+	document.getElementById("foto").src = json.image
+	document.getElementById("foto").alt = json.alt
+	document.getElementById("title").style.color = json.color
+	document.getElementById("p").style.color = json.color
 }	
