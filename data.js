@@ -29,4 +29,12 @@ let data = [{
     image: "anya.png",
     alt: "Anya",
     color: "LightPink"
+},
+{
+    title: "Neku Shrine",
+    description: "O Neku odiava todo mundo, NÃO MAIS! Se uma das pessoas mais convencidas de Shibuya pode mudar, Shibuya também.",
+    video: "https://www.youtube.com/embed/aW4yBWlP5t4",
+    image: "neku.png",
+    alt: "Neku",
+    color: "MediumSlateBlue"
 }];
