@@ -1,6 +1,6 @@
 let data = [{
 	title: "Shiki Shrine",
-	description: "A shiki é maravilhosa, perfeita, linda, incrivel, estupenda, bela, encantadora, atraente, tudo que seja de bom, E ELA TEM O MR MEW MEW",
+	description: "Ok, isso aqui é um site para adorarmos a Shiki, começe a adorar ela imediatamente",
 	video: "https://www.youtube.com/embed/cVpU3ckQyJg",
 	image: "shiki.png",
 	alt: "Shiki",
@@ -8,7 +8,7 @@ let data = [{
 },
 {
 	title: "Rhyme Shrine",
-	description: "Eu preciso explicar alguma coisa? OLHA PRA ESSE SER HUMANO, QUE COISINHA FOFA",
+	description: "Ok, isso aqui é um site para adorarmos a Rhyme, começe a adorar ela imediatamente",
 	video: "https://www.youtube.com/embed/ibIWCYqj8rc",
 	image: "rhyme.png",
 	alt: "Rhyme",
@@ -16,7 +16,7 @@ let data = [{
 },
 {
     title: "Joshua Shrine",
-    description: "O video resume tudo o que eu queria dizer",
+    description: "Ok, isso aqui é um site para adorarmos o Joshua, começe a adorar ele imediatamente",
     video: "https://www.youtube.com/embed/mgBQKoq3rEg",
     image: "joshua.png",
     alt: "Joshua",
@@ -24,17 +24,25 @@ let data = [{
 },
 {
     title: "Anya Shrine",
-    description: "Ela é linda, é fofa, e além de tudo lê mentes, o que mais você queria?",
+    description: "Ok, isso aqui é um site para adorarmos a Anya, começe a adorar ela imediatamente",
     video: "https://www.youtube.com/embed/tnhoGZMv1oM",
     image: "anya.png",
     alt: "Anya",
     color: "LightPink"
 },
 {
-    title: "Neku Shrine",
-    description: "O Neku odiava todo mundo, NÃO MAIS! Se uma das pessoas mais convencidas de Shibuya pode mudar, Shibuya também.",
-    video: "https://www.youtube.com/embed/aW4yBWlP5t4",
-    image: "neku.png",
-    alt: "Neku",
-    color: "MediumSlateBlue"
+    title: "Saimatsu Shrine",
+    description: "Um emo e uma extrovertida, isso realmente deu certo, e é meu otp, pau no cu de quem acha o ship ruim",
+    video: "https://www.youtube.com/embed/zXcpeqn_pLs",
+    image: "saimatsu.png",
+    alt: "Saimatsu",
+    color: "MidnightBlue"
+},
+{
+    title: "Minamimoto Shrine",
+    description: "Eu posso odiar matemática, mas não consigo odiar ele, muito pelo contrario",
+    video: "https://www.youtube.com/embed/_4pSSr7pPk8",
+    image: "minamimoto_sho.png",
+    alt: "Minamimoto",
+    color: "Maroon"
 }];
