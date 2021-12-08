@@ -36,7 +36,7 @@ let data = [{
     video: "https://www.youtube.com/embed/zXcpeqn_pLs",
     image: "saimatsu.png",
     alt: "Saimatsu",
-    color: "MidnightBlue"
+    color: "RoyalBlue"
 },
 {
     title: "Minamimoto Shrine",
@@ -53,4 +53,12 @@ let data = [{
     image: "faline-san.png",
     alt: "Faline-san",
     color: "LemonChiffon"
+},
+{
+    title: "Neku Shrine",
+    description: "Antes ele era um emo, depois virou um emo com uma waifu, e agora ele é alguém sociavel e com uma waifu",
+    video: "https://www.youtube.com/embed/aW4yBWlP5t4",
+    image: "neku.png",
+    alt: "Neku",
+    color: "Teal"
 }];
