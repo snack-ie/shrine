@@ -45,4 +45,12 @@ let data = [{
     image: "minamimoto_sho.png",
     alt: "Minamimoto",
     color: "Maroon"
+},
+{
+    title: "Faline-san Shrine",
+    description: "Sua vida pode estar uma desgraça, seu gato pode ter morrido, você pode ter descoberto que o seu/sua namorado/namorada tá te traindo, MAS ELA TEM O DOM DE TE FAZER RIR ATÉ VOCÊ NÃO AGUENTAR MAIS",
+    video: "https://www.youtube.com/embed/0IBfbzaoaHI",
+    image: "faline-san.png",
+    alt: "Faline-san",
+    color: "LemonChiffon"
 }];
