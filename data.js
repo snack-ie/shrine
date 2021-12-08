@@ -1,6 +1,6 @@
 let data = [{
 	title: "Shiki Shrine",
-	description: "Ok, isso aqui é um site para adorarmos a Shiki, começe a adorar ela imediatamente",
+	description: "Ela é linda perfeita maravilhosa incrivel, e é a protetora do mr mew mew, tem coisa mais perfeita q isso?",
 	video: "https://www.youtube.com/embed/cVpU3ckQyJg",
 	image: "shiki.png",
 	alt: "Shiki",
@@ -16,7 +16,7 @@ let data = [{
 },
 {
     title: "Joshua Shrine",
-    description: "Ok, isso aqui é um site para adorarmos o Joshua, começe a adorar ele imediatamente",
+    description: "Só assiste o video",
     video: "https://www.youtube.com/embed/mgBQKoq3rEg",
     image: "joshua.png",
     alt: "Joshua",
@@ -24,7 +24,7 @@ let data = [{
 },
 {
     title: "Anya Shrine",
-    description: "Ok, isso aqui é um site para adorarmos a Anya, começe a adorar ela imediatamente",
+    description: "Ela lê mentes, é fofa, tem cabelo rosa, o que mais você queria?",
     video: "https://www.youtube.com/embed/tnhoGZMv1oM",
     image: "anya.png",
     alt: "Anya",
@@ -32,7 +32,7 @@ let data = [{
 },
 {
     title: "Saimatsu Shrine",
-    description: "Um emo e uma extrovertida, isso realmente deu certo, e é meu otp, pau no cu de quem acha o ship ruim",
+    description: "Um emo e uma extrovertida, isso realmente deu certo, é só a gente ignorar tudo o que aconteceu no class trial do cap 1 que tá safe",
     video: "https://www.youtube.com/embed/zXcpeqn_pLs",
     image: "saimatsu.png",
     alt: "Saimatsu",
