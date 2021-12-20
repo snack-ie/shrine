@@ -61,4 +61,12 @@ let data = [{
     image: "neku.png",
     alt: "Neku",
     color: "Teal"
+},
+{
+    title: "Naoto Shrine",
+    description: "Mesmo que você tenha achado que era um homem na primeira vez que você a viu, você continua achando ela linda pra caralho (boatos de que guiguimed teve um gay panik ao ver ela pela primeira vez)",
+    video: "https://www.youtube.com/embed/h2j2OmlvRr4",
+    image: "naoto_e_suas_dancinhas.gif",
+    alt: "Naoto",
+    color: "PaleTurquoise"
 }];
